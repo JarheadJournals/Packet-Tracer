@@ -1,5 +1,5 @@
 # Packet-Tracer
-Setting up and learning Cisco Packet Traver and setting up a Virtual Home Network.
+Setting up and learning Cisco Packet Tracer and setting up a Virtual Home Network.
 <h2>Description</h2>
 Throught the Cisco Netwroking Acedemy is took the course "Getting Started with Cisco Packet Tracer" and learned how to setup and use the basics of the Cisco packet tracer. Then i setup my first virtual home network and will continue to use it to experiment and learn the in's and out's of how it works and it's uses.    
 <br />
